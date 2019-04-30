@@ -20,6 +20,9 @@
     self.navigationItem.title = @"测试gitHub";
     NSLog(@"TestGit!Hello World!");
     
+    NSLog(@"增加一行测试更新github!");
+    
+    
 }
 
 
